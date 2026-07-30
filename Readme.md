@@ -1,6 +1,6 @@
 # 🎯 CS2 Friberg 猜选手辅助工具
 
-自动监控 Friberg 猜选手游戏，智能筛选候选选手的辅助工具。
+基于[csgo弗一把](https://github.com/shnlfriberg/csgofriberg)项目，自动监控 Friberg 猜选手游戏，智能筛选候选选手的辅助工具。
 
 ## ✨ 功能特点
 
@@ -113,8 +113,12 @@ pip install webdriver-manager --upgrade
 - 检查猜测是否正确
 
 ## 📄 许可证
+本项目基于AGPL-3.0开源。  
 
-仅供本地娱乐参考，请勿用于线上作弊使用
+[csgo弗一把](https://github.com/shnlfriberg/csgofriberg)原项目作者：[B站-怂皇的一天](https://space.bilibili.com/290893104)  
+
+仅供本地娱乐参考，请勿用于线上作弊使用。  
+联系侵删。
 
 ---
 
